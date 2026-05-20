@@ -8,4 +8,5 @@ seaborn
 scikit-learn
 matplotlib
 fpdf
+statsmodels
 
