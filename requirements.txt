@@ -5,4 +5,8 @@ numpy
 joblib
 openpyxl
 sklearn
+seaborn
+scikit-learn
+matplotlib
+fpdf
 
