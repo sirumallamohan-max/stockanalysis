@@ -3,3 +3,5 @@ streamlit
 tensorflow
 numpy
 joblib
+openpyxl
+statsmodels
